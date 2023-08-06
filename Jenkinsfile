@@ -1,10 +1,10 @@
 def branch = "staging"
-def repo = "git@github.com:sallfarr77/be-dumbmerch.git"
+def repo = "git@github.com:DitoIhkam/be-dumbmerch.git"
 def cred = "ssh"
 def dir = "~/be-dumbmerch"
-def server = "sallfarr@116.193.190.5"
+def server = "ditoihkam@103.226.139.168"
 def imagename = "be-dumbmerch"
-def dockerusername = "sallfarr"
+def dockerusername = "kelompok2"
 
 pipeline {
     agent any
